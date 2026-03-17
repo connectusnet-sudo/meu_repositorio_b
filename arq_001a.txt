@@ -3,5 +3,4 @@ mais texto
 mais mais texto
 ja foi commitado 22:14
 nova alteração 22:21h
-a----22:27h
-b----22:31h
+novo commit para repositorio c 22:45h
